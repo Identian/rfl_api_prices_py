@@ -1,0 +1,8 @@
+{
+    "precia_api_url":"<<cloudfront_url/stage>>",
+    "client_id": "<<AD_azure_app:api_client_id>>",
+    "tenant_id":"<<AD_azure_app:api_tenant_id>>",
+    "username":"soy_un_pajarito@intradiappqa.onmicrosoft.com",
+    "password":"te_quiero_no_me_olvides",
+    "client_secret":"<<AD_azure_app:api_user:client_secret>>"
+}

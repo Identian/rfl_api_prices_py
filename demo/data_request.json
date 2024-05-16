@@ -1,0 +1,16 @@
+{
+    "query_params":{
+        "valuation_date": "2023-12-21"
+    },
+    "payload_request": {
+        "fields": [
+            "isin_code",
+            "spread",
+            "convexity"
+        ],
+        "isines": [
+            "COB58CD1EM88",
+            "COB61CD3KTI5"
+        ]
+    }
+}
